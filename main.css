@@ -1,0 +1,31 @@
+.cabecalho {
+    float: left;
+}
+
+.menu {
+    text-align: center;
+}
+
+.barraLateral {
+    float: left;
+    margin-top: 40px;
+    margin-left: -130px;
+    background-color: aquamarine;
+}
+
+.conteudo {
+    margin-left: 300px;
+}
+
+.rodape {
+   text-align: center;
+   background-color: green;
+   padding: 1px;
+   margin-left: -8px;
+   margin-right: -8px;
+}
+
+.fundo {
+    background-color: aqua;
+    margin-bottom: -100px;
+}
